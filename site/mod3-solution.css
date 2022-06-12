@@ -1,0 +1,15 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+body{width:1000px;
+     height:3000px; 
+}
+
+
+/* md - desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
+
+/* sm - tablet, 992px and up) */
+@media (min-width: 768px) and (992px) { ... }
+
+/* sm - mobile, 768px and up) */
+@media (min-width:767px) { ... }
