@@ -1,0 +1,10 @@
+.row{
+  margin-bottom: 15px;
+  
+}
+.row > div {
+  border:5px solid red;
+}
+/*.col-md-4{
+  height: 50px;
+}*/
