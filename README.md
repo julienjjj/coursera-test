@@ -1,2 +1,1 @@
-# coursera-test
-coursera test repository
+This is for module3 assignment solution including both HTML & CSS files
